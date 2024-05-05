@@ -1,2 +1,3 @@
-# useful-debian-scripts
+# useful-scripts
  
+A collection of useful scripts
